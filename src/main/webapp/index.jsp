@@ -19,7 +19,7 @@
                 <span>JDKT Batch 07</span>
             </div>
             <div class="nav-menu">
-                <a href="#home" class="nav-link">Home</a>
+                <a href="#home" class="nav-link">Home1</a>
                 <a href="#courses" class="nav-link">Courses</a>
                 <a href="#instructor" class="nav-link">Instructor</a>
                 <a href="#contact" class="nav-link">Contact</a>
